@@ -3,7 +3,7 @@
 # 设置输出文件名和路径
 OUTPUT := out/server
 
-# 设置Go源文件的路径（假设main.go是你的入口文件）
+# 设置Go源文件的路径
 GO_SRC := main.go
 
 # 设置RocksDB的目录
