@@ -8,7 +8,6 @@ import "C"
 
 import (
 	"errors"
-	"log"
 	"regexp"
 	"runtime"
 	"strconv"
